@@ -41,7 +41,7 @@ public class Menu {
         }
 
         for (int option : chosenOptions) {
-            System.out.println("Elegiste las opciones " + option);
+            System.out.println("Elegiste la hamburguesa con " + option);
         }
     }
 }
