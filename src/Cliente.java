@@ -16,5 +16,7 @@ class Cliente{
         ingredientes.mostrar;
         String entrada = scanner.nextLine();
 
+        hamburguesa.pedir;
+
     }
 }
