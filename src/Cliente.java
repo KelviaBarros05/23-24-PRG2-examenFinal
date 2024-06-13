@@ -13,16 +13,8 @@ class Cliente{
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Por favor, dime como quieres tu hamburguesa: ");
-        System.out.println(menu);
+        ingredientes.mostrar;
         String entrada = scanner.nextLine();
 
-    }
-
-    public static void main(String[] args) {
-
-        Cliente cliente = Cliente("Manuel", 207);
-
-        cliente.hacerPedido();
-        pedido.mostrar();
     }
 }
